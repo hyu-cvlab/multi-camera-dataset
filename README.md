@@ -1,7 +1,4 @@
-# SweepNet
-
-
-This is for multi-camera vo dataset.
+# Multi-camera vo dataset
 
 
 We provide images and ground-truth poses of four fisheye cameras.
