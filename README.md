@@ -3,5 +3,16 @@
 This is for multi-camera vo dataset.
 
 
-We provide images and poses of four fisheye cameras.
+We provide images and ground-truth poses of four fisheye cameras.
 
+
+Download link is below :
+
+https://drive.google.com/open?id=1FL277z75u0utYUhAzis_FjUtZvEmubee
+
+
+
+If you have any question about using the dataset, please contact to this email: hyucvlab-dataset@gmail.com
+
+
+Thank you
