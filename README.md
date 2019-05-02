@@ -1,3 +1,4 @@
+# SweepNet
 
 
 This is for multi-camera vo dataset.
@@ -12,7 +13,7 @@ https://drive.google.com/open?id=1FL277z75u0utYUhAzis_FjUtZvEmubee
 
 
 
-If you have any question about using the dataset, please contact to this email: hyucvlab-dataset@gmail.com
+If you have any question about using the dataset, please contact us
 
 
-Thank you
+**Contact**: hyucvlab-dataset@gmail.com
